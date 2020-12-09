@@ -1,0 +1,116 @@
+
+h1{
+    font-family: 'Chelsea Market';
+}
+
+.content-row div {    
+    margin: 1rem;
+  }
+
+  .content-row{
+      display:flex;
+  }
+
+
+section.middle {
+    background-color: #DDB9A3;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 3%;
+}
+
+.nav-content{
+    margin:0 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+#plan {
+    margin: 0 1rem;
+    border: 0.1rem solid lightgray;
+    padding: 1rem;
+    display: inline-block;
+    border-radius: 1rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1rem;     
+    background-color:#FF764E;
+}
+
+#learn {
+    margin: 0 auto;
+    border: 0.1rem solid lightgray;
+    padding: 1rem;
+    display: inline-block;
+    border-radius: 1rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1rem;     
+    background-color: #5ED3EB;
+}
+
+#involved {
+    margin: 0 1rem;
+    border: 0.1rem solid lightgray;
+    padding: 1rem;
+    display: inline-block;
+    border-radius: 1rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1rem;     
+    background-color:#FFCD69;
+}
+ .reservation-text{
+     padding-left: 18rem;
+     font-size: 0.7rem;
+ }
+
+ 
+ 
+ .fire-text {
+    padding-left: 18rem;
+    font-size: 0.7rem;    
+    
+    
+ }
+
+.yellowstone {
+    border-radius: 50%;    
+    width: 20rem;
+    height:20rem;
+}
+
+.mountains {
+    height: 30rem;
+    display:inline-block;
+}
+
+
+
+section.images img.fire {
+    height: 5rem;
+    width: 5rem;
+    padding-left: 17rem;
+    vertical-align: bottom;
+    display: inline-block;
+    text-align: center;
+    width: 12rem;
+    
+} 
+
+section.images img.bus{
+    height: 5rem;
+    width: 5rem;
+    padding-left: 17rem;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 12rem;
+    
+}
+
+.footer-content {
+    background-color: #F9E7DC;
+}
